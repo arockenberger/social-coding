@@ -8,6 +8,8 @@ class: middle, inverse
 
 ## [Radovan Bast](https://bast.fr) (NeIC, UiT-The Arctic University of Norway)
 
+### Slides: [bit.ly/kje-3001-open-source](http://bit.ly/kje-3001-open-source)
+
 Text is free to share and remix under
 [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
@@ -684,6 +686,8 @@ These are the things I look at:
 ---
 
 ## Conclusions and discussion
+
+### These slides: [bit.ly/kje-3001-open-source](http://bit.ly/kje-3001-open-source)
 
 - Track code using version control, learn Git: https://uit-no.github.io/2018-11-08-uit/
 - Use code review: review each other's code changes
